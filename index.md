@@ -19,3 +19,5 @@ LUX=(function(){var a=("undefined"!==typeof(LUX)&&"undefined"!==typeof(LUX.gaMar
 <script src="https://cdn.speedcurve.com/js/lux.js?id=384711049" async defer crossorigin="anonymous"></script>
 
 
+
+[Other Page](/other)
